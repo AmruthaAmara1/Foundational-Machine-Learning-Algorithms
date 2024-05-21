@@ -1,2 +1,2 @@
-# hello-world
-My first repository
+# Machine Learning Sample Model
+Predict the iris flowers species
